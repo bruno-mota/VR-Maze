@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A Maze Starter Project
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
@@ -6,4 +7,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - Unity 2017.2.0f3
 - GVR Unity SDK v1.70.0
 
-Project by Alexio Mota
+=======
+# VR-Maze
+For a nanodegree
+>>>>>>> 58cd2a4ffc85b3141c0ba39536637f5fc0a573e4
