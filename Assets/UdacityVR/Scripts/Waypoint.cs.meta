@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 18f754fc3d17b49db8e3d3dde994b993
+timeCreated: 1526340683
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCam: {fileID: 20455046984346524, guid: e93ca74d1c4f12c45bbb07a66dab2f4c,
+      type: 2}
+  - material: {fileID: 2100000, guid: f991f64383bb847ce8145e16b9439d98, type: 2}
+  - clip_click: {fileID: 8300000, guid: 98918cad2f4de4a29ab082a4b55f4588, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
